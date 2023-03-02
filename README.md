@@ -1,0 +1,1 @@
+This is a repository I created for third assignment for Software Engineering II, which required a readme.md file. I created an original textfile to make some changes to in order to commit, and this is the last commit before finishing the assignment.
