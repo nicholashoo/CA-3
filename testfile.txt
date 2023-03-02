@@ -1,3 +1,4 @@
 Hello! 
-
 This is just an initial file to have in my repository before creating my branch.
+
+This is my second change to this file, which is in another branch which I will merge.
